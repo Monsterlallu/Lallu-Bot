@@ -1,9 +1,9 @@
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/72667834?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="https://www.linkpicture.com/q/20220416_150555.jpg" width="200" height="200"/>
 
    <p align="center">
 
-<a href="#"><img title="Jimbrootan🧞‍♂️" src="https://www.linkpicture.com/q/20220416_150555.jpg"></a>
+<a href="#"><img title="Jimbrootan🧞‍♂️" src="https://img.shields.io/badge/MonsterLallu%F0%9F%A7%9E%E2%80%8D%E2%99%82%EF%B8%8F-blueviolet?&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Mikhaiel"><img title="Author" src="https://img.shields.io/badge/Author-Mikhaiel-Offical/Jimbrootan?color=red&style=for-the-badge&logo=whatsapp"></a>
